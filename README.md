@@ -37,13 +37,14 @@
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="Firebase" width="40" height="40" />
   &nbsp;&nbsp;
-  <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a61134.svg" alt="Google AI Studio" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" alt="Google AI Studio" width="40" height="40" />
 </div>
 
 ---
 
 ### 🌟 Featured Repositories
 
+* 🎓 **[StudyPro Web App](https://github.com/baralaayush/studypro):** Dedicated web platform designed for study productivity, resource management, and academic workflows.
 * 🔐 **[Locker (Cloud Vault Locker)](https://github.com/baralaayush/Cloud-Vault-Locker):** Personal secure cloud vault for bookmarks, document storage (Supabase), and smart memos. *(Upgraded successor to PortalHub)*
 * 📱 **[New Portfolio](https://github.com/baralaayush/newportfolio):** Reactive developer portfolio auto-synced with blog posts and live project portals.
 * 💳 **[Finance Tracker](https://github.com/baralaayush/Finance-Tracker):** PWA financial record-keeping web app in NPR powered by Firebase with live PDF exports.
@@ -55,7 +56,7 @@
 ### 📊 Contribution Graph & Activity
 
 <div align="center">
-  <img src="https://github.com/baralaayush/baralaayush/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/baralaayush/baralaayush/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 </div>
 
 <br />
