@@ -51,13 +51,21 @@
 
 ---
 
-### 🌟 Featured Repositories
+### 🏢 Organization & Team Work
+
+* <img src="https://github.com/JugalTeam.png" width="20" height="20" align="center" /> **[Jugal Team](https://github.com/JugalTeam):** An innovative development collective building practical, engaging digital solutions in Nepal.
+  * 🤖 **[Jugal-AI](https://github.com/JugalTeam/Jugal-AI):** Client-side AI chat application built with React, TypeScript, and Vite utilizing Google's Gemini API.
+  * 🎙️ **[Virtual-Assistant](https://github.com/JugalTeam/Virtual-Assistant):** Voice-command assistant application for automating desktop and web tasks.
+  * 🎮 **[Game-on-browser](https://github.com/JugalTeam/Game-on-browser):** Web-based platform featuring classic browser games including Mario, Memory, Word Guess, and XO.
+
+---
+
+### 🌟 Featured Personal Repositories
 
 * 🎓 **[StudyPro Web App](https://github.com/baralaayush/studypro):** Dedicated web platform designed for study productivity, resource management, and academic workflows.
-* 🔐 **[Locker (Cloud Vault Locker)](https://github.com/baralaayush/Cloud-Vault-Locker):** Personal secure cloud vault for bookmarks, document storage (Supabase), and smart memos. *(Upgraded successor to PortalHub)*
+* 🔐 **[Locker (Cloud Vault Locker)](https://github.com/baralaayush/Cloud-Vault-Locker):** Personal secure cloud vault for bookmarks, document storage (Supabase), and smart memos.
 * 📱 **[New Portfolio](https://github.com/baralaayush/newportfolio):** Reactive developer portfolio auto-synced with blog posts and live project portals.
 * 💳 **[Finance Tracker](https://github.com/baralaayush/Finance-Tracker):** PWA financial record-keeping web app in NPR powered by Firebase with live PDF exports.
-* 📦 **[Private Hub](https://github.com/baralaayush/Private-Hub):** Streamlined single-user personal workspace for links, snippets, and quick notes.
 * ⚡ **[yt-dlp Utility Suite](https://github.com/baralaayush/yt-dlp):** Configured Windows execution package bundled with FFmpeg and batch extraction tools.
 
 ---
@@ -71,21 +79,8 @@
 <br />
 
 <div align="center">
-  <!-- Equalized GitHub Stats & Most Used Languages Cards -->
-  <img src="https://github-readme-stats-two-nu.vercel.app/api?username=baralaayush&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true" alt="Aayush's GitHub Stats" width="400" height="160" />
+  <!-- Equalized Box Sizes & Text Scale -->
+  <img src="https://github-readme-stats-two-nu.vercel.app/api?username=baralaayush&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&hide=prs,issues" alt="Aayush's GitHub Stats" width="415" height="165" />
   &nbsp;
-  <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=baralaayush&layout=compact&theme=tokyonight&hide_border=true&langs_count=4" alt="Top Languages" width="400" height="160" />
-</div>
-
----
-
-<div align="center">
-  <p><strong>📫 Connect & Reach Out:</strong></p>
-  <a href="https://linkedin.com/in/baralaayush">
-    <img src="https://img.shields.io/badge/LinkedIn-in%2Fbaralaayush-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn Profile" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://baralaayush.github.io/newportfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-baralaayush.com.np-61DAFB?style=flat-square&logo=react&logoColor=black" alt="Portfolio Website" />
-  </a>
+  <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=baralaayush&layout=compact&theme=tokyonight&hide_border=true&langs_count=4" alt="Top Languages" width="415" height="165" />
 </div>
