@@ -71,17 +71,21 @@
 <br />
 
 <div align="center">
-  <!-- Total Repositories Badge -->
-  <a href="https://github.com/baralaayush?tab=repositories">
-    <img src="https://img.shields.io/badge/PUBLIC%20REPOSITORIES-18-7A52B3?style=for-the-badge&logo=github" alt="Total Repositories" />
-  </a>
+  <!-- Equalized GitHub Stats & Most Used Languages Cards -->
+  <img src="https://github-readme-stats-two-nu.vercel.app/api?username=baralaayush&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true" alt="Aayush's GitHub Stats" width="400" height="160" />
+  &nbsp;
+  <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=baralaayush&layout=compact&theme=tokyonight&hide_border=true&langs_count=4" alt="Top Languages" width="400" height="160" />
 </div>
 
-<br />
+---
 
 <div align="center">
-  <!-- Equal Size Cards Without Rank Circle -->
-  <img src="https://github-readme-stats-two-nu.vercel.app/api?username=baralaayush&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true" alt="Aayush's GitHub Stats" height="150" />
+  <p><strong>📫 Connect & Reach Out:</strong></p>
+  <a href="https://linkedin.com/in/baralaayush">
+    <img src="https://img.shields.io/badge/LinkedIn-in%2Fbaralaayush-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn Profile" />
+  </a>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=baralaayush&layout=compact&theme=tokyonight&hide_border=true&langs_count=4" alt="Top Languages" height="150" />
+  <a href="https://baralaayush.github.io/newportfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-baralaayush.com.np-61DAFB?style=flat-square&logo=react&logoColor=black" alt="Portfolio Website" />
+  </a>
 </div>
