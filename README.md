@@ -23,6 +23,8 @@
 
 <div align="center">
   <!-- Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
@@ -82,5 +84,5 @@
   <!-- Equalized Box Sizes & Text Scale -->
   <img src="https://github-readme-stats-two-nu.vercel.app/api?username=baralaayush&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&hide=prs,issues" alt="Aayush's GitHub Stats" width="415" height="165" />
   &nbsp;
-  <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=baralaayush&layout=compact&theme=tokyonight&hide_border=true&langs_count=4" alt="Top Languages" width="415" height="165" />
+  <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=baralaayush&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&cache_seconds=1" alt="Top Languages" width="415" height="165" width="415" height="165" />
 </div>
