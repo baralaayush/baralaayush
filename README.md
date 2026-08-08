@@ -63,7 +63,7 @@
 ---
 
 ### 🌟 Featured Personal Repositories
-
+* ♦ **[Nepse Automation Bot](https://github.com/baralaayush/Nepse-Automation-Bot):** High-speed NEPSE automation suite using Selenium & WebSockets. Features instant target LTP triggers (±3%), dynamic auto-LTP pricing, and ultra-fast pre-market order execution.
 * 🎓 **[StudyPro Web App](https://github.com/baralaayush/studypro):** Dedicated web platform designed for study productivity, resource management, and academic workflows.
 * 🔐 **[Locker (Cloud Vault Locker)](https://github.com/baralaayush/Cloud-Vault-Locker):** Personal secure cloud vault for bookmarks, document storage (Supabase), and smart memos.
 * 📱 **[New Portfolio](https://github.com/baralaayush/newportfolio):** Reactive developer portfolio auto-synced with blog posts and live project portals.
