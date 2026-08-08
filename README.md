@@ -3,9 +3,18 @@
   <p><strong>Full-Stack Developer & Tech Explorer</strong></p>
   <p>Building modern web apps, cloud vaults, and developer tools.</p>
 
-  <a href="https://baralaayush.github.io/newportfolio/"><strong>🌐 Portfolio</strong></a> • 
-  <a href="https://blog.baralaayush.com.np"><strong>📰 Blog</strong></a> • 
-  <a href="https://project.baralaayush.com.np"><strong>🚀 Projects</strong></a>
+  <a href="https://baralaayush.github.io/newportfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/baralaayush">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://blog.baralaayush.com.np">
+    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />
+  </a>
+  <a href="https://project.baralaayush.com.np">
+    <img src="https://img.shields.io/badge/Projects-00E676?style=for-the-badge&logo=rocket&logoColor=white" alt="Projects" />
+  </a>
 </div>
 
 <br />
@@ -62,12 +71,12 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baralaayush&show_icons=true&theme=tokyonight&hide_border=true" alt="Aayush's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baralaayush&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-two-nu.vercel.app/api?username=baralaayush&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aayush's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=baralaayush&layout=compact&theme=tokyonight&hide_border=true&hide=html" alt="Top Languages" width="48%" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>Connect with me: <a href="https://baralaayush.github.io/newportfolio/">baralaayush.com.np</a></sub>
+  <sub>Connect with me: <a href="https://linkedin.com/in/baralaayush">LinkedIn</a> • <a href="https://baralaayush.github.io/newportfolio/">baralaayush.com.np</a></sub>
 </div>
