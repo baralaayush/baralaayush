@@ -55,11 +55,13 @@
 
 ### 🏢 Organization & Team Work
 
-* <img src="https://github.com/JugalTeam.png" width="20" height="20" align="center" /> **[Jugal Team](https://github.com/JugalTeam):** An innovative development collective building practical, engaging digital solutions in Nepal.
+* <img src="https://github.com/JugalTeam.png" width="20" height="20" align="center" /> **[Jugal Team](https://github.com/JugalTeam):** An innovative development team.
   * 🤖 **[Jugal-AI](https://github.com/JugalTeam/Jugal-AI):** Client-side AI chat application built with React, TypeScript, and Vite utilizing Google's Gemini API.
   * 🎙️ **[Virtual-Assistant](https://github.com/JugalTeam/Virtual-Assistant):** Voice-command assistant application for automating desktop and web tasks.
   * 🎮 **[Game-on-browser](https://github.com/JugalTeam/Game-on-browser):** Web-based platform featuring classic browser games including Mario, Memory, Word Guess, and XO.
 
+* <img src="https://github.com/The-Debuggers-Team.png" width="20" height="20" align="center" /> **[The Debuggers Team](https://github.com/The-Debuggers-Team):** Where problem‑solving meets creativity in software and design.
+  * 🌐 **[PeerPath](https://github.com/The-Debuggers-Team/PeerPath):** An academic workspace designed to solve the lack of well‑managed student platforms and unreliable AI solutions.             PeerPath provides organized notes, daily study tracking, global peer connections, note sharing, and premium expert tuition empowering students with structured, collaborative,            and reliable learning.
 ---
 
 ### 🌟 Featured Personal Repositories
