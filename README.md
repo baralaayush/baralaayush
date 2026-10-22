@@ -1,5 +1,7 @@
 <div align="center">
-  <h1>Hi, I'm Aayush Baral 👋</h1>
+  <!-- Faster Typing/Blinking Effect Header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=400&speed=80&color=61DAFB&center=true&vCenter=true&width=600&lines=HI,+I'M+AAYUSH+BARAL+👋;FULL-STACK+DEVELOPER;TECH+EXPLORER" alt="Typing SVG" />
+  
   <p><strong>Full-Stack Developer & Tech Explorer</strong></p>
   <p>Building modern web apps, cloud vaults, and developer tools.</p>
 
@@ -55,22 +57,23 @@
 
 ### 🏢 Organization & Team Work
 
-* <img src="https://github.com/JugalTeam.png" width="20" height="20" align="center" /> **[Jugal Team](https://github.com/JugalTeam):** An innovative development team.
+- <img src="https://github.com/JugalTeam.png" width="20" height="20" align="center" /> **[Jugal Team](https://github.com/JugalTeam):** An innovative development team.
   * 🤖 **[Jugal-AI](https://github.com/JugalTeam/Jugal-AI):** Client-side AI chat application built with React, TypeScript, and Vite utilizing Google's Gemini API.
   * 🎙️ **[Virtual-Assistant](https://github.com/JugalTeam/Virtual-Assistant):** Voice-command assistant application for automating desktop and web tasks.
   * 🎮 **[Game-on-browser](https://github.com/JugalTeam/Game-on-browser):** Web-based platform featuring classic browser games including Mario, Memory, Word Guess, and XO.
 
-* <img src="https://github.com/The-Debuggers-Team.png" width="20" height="20" align="center" /> **[The Debuggers Team](https://github.com/The-Debuggers-Team):** Where problem‑solving meets creativity in software and design.
-  * 🌐 **[PeerPath](https://github.com/The-Debuggers-Team/PeerPath):** An academic workspace designed to solve the lack of well‑managed student platforms and unreliable AI solutions.             PeerPath provides organized notes, daily study tracking, global peer connections, note sharing, and premium expert tuition empowering students with structured, collaborative,            and reliable learning.
+- <img src="https://github.com/The-Debuggers-Team.png" width="20" height="20" align="center" /> **[The Debuggers Team](https://github.com/The-Debuggers-Team):** Where problem‑solving meets creativity in software and design.
+  * 🌐 **[PeerPath](https://github.com/The-Debuggers-Team/PeerPath):** An academic workspace designed to solve the lack of well‑managed student platforms and unreliable AI solutions. PeerPath provides organized notes, daily study tracking, global peer connections, note sharing, and premium expert tuition empowering students with structured, collaborative, and reliable learning.
+
 ---
 
 ### 🌟 Featured Personal Repositories
-* ♦ **[Nepse Automation Bot](https://github.com/baralaayush/Nepse-Automation-Bot):** High-speed NEPSE automation suite using Selenium & WebSockets. Features instant target LTP triggers (±3%), dynamic auto-LTP pricing, and ultra-fast pre-market order execution.
-* 🎓 **[StudyPro Web App](https://github.com/baralaayush/studypro):** Dedicated web platform designed for study productivity, resource management, and academic workflows.
-* 🔐 **[Locker (Cloud Vault Locker)](https://github.com/baralaayush/Cloud-Vault-Locker):** Personal secure cloud vault for bookmarks, document storage (Supabase), and smart memos.
-* 📱 **[New Portfolio](https://github.com/baralaayush/newportfolio):** Reactive developer portfolio auto-synced with blog posts and live project portals.
-* 💳 **[Finance Tracker](https://github.com/baralaayush/Finance-Tracker):** PWA financial record-keeping web app in NPR powered by Firebase with live PDF exports.
-* ⚡ **[yt-dlp Utility Suite](https://github.com/baralaayush/yt-dlp):** Configured Windows execution package bundled with FFmpeg and batch extraction tools.
+- ♦ **[Nepse Automation Bot](https://github.com/baralaayush/Nepse-Automation-Bot):** High-speed NEPSE automation suite using Selenium & WebSockets. Features instant target LTP triggers (±3%), dynamic auto-LTP pricing, and ultra-fast pre-market order execution.
+- 🎓 **[StudyPro Web App](https://github.com/baralaayush/studypro):** Dedicated web platform designed for study productivity, resource management, and academic workflows.
+- 🔐 **[Locker (Cloud Vault Locker)](https://github.com/baralaayush/Cloud-Vault-Locker):** Personal secure cloud vault for bookmarks, document storage (Supabase), and smart memos.
+- 📱 **[New Portfolio](https://github.com/baralaayush/newportfolio):** Reactive developer portfolio auto-synced with blog posts and live project portals.
+- 💳 **[Finance Tracker](https://github.com/baralaayush/Finance-Tracker):** PWA financial record-keeping web app in NPR powered by Firebase with live PDF exports.
+- ⚡ **[yt-dlp Utility Suite](https://github.com/baralaayush/yt-dlp):** Configured Windows execution package bundled with FFmpeg and batch extraction tools.
 
 ---
 
@@ -83,8 +86,8 @@
 <br />
 
 <div align="center">
-  <!-- Equalized Box Sizes & Text Scale -->
-  <img src="https://github-readme-stats-two-nu.vercel.app/api?username=baralaayush&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&hide=prs,issues" alt="Aayush's GitHub Stats" width="415" height="165" />
+  <!-- Equalized Box Sizes & Fixed Contribution Stats -->
+  <img src="https://github-readme-stats-two-nu.vercel.app/api?username=baralaayush&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&hide=prs,issues&line_height=30" alt="Aayush's GitHub Stats" width="415" height="165" />
   &nbsp;
-  <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=baralaayush&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&cache_seconds=1" alt="Top Languages" width="415" height="165" width="415" height="165" />
+  <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=baralaayush&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&cache_seconds=1" alt="Top Languages" width="415" height="165" />
 </div>
